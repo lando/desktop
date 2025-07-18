@@ -38,7 +38,7 @@ const plugins = ref([
     installedVersion: '0.5.2',
     repositoryUrl: 'https://github.com/lando/php',
     teaser: 'Runs PHP for your web applications.',
-    author: 'Lando System, Inc.',
+    author: 'Lando Alliance.',
     contributors: [],
     // MVP Local User Data
     lastUpdated: '2022-01-23T18:25:43.511Z',
@@ -60,7 +60,7 @@ const plugins = ref([
     installedVersion: '0.5.2',
     repositoryUrl: 'https://github.com/lando/php',
     teaser: 'Runs PHP for your web applications.',
-    author: 'Lando System, Inc.',
+    author: 'Lando Alliance.',
     contributors: [],
     // MVP Local User Data
     lastUpdated: '2022-01-23T18:25:43.511Z',
@@ -82,7 +82,7 @@ const plugins = ref([
     installedVersion: '0.5.2',
     repositoryUrl: 'https://github.com/lando/php',
     teaser: 'Runs PHP for your web applications.',
-    author: 'Lando System, Inc.',
+    author: 'Lando Alliance.',
     contributors: [],
     // MVP Local User Data
     lastUpdated: '2022-01-23T18:25:43.511Z',
