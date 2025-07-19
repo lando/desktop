@@ -55,5 +55,6 @@
     "sudo-prompt": "^9.2.1",
     "vue": "^3.2.31",
     "vue-router": "4"
-  }
+  },
+  "license": "MIT"
 }
