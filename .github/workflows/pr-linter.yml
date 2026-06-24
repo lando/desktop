@@ -22,7 +22,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: yarn
       - name: Install Yarn dependencies
-        run: yarn install --prefer-offline --frozen-lockfile
+        run: yarn install --prefer-offline --frozen-lockfile --ignore-engines
 
       # Run Linter
       - name: Run linter
