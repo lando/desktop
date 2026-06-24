@@ -44,7 +44,7 @@
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.21.0",
     "@electron/remote": "^2.0.8",
-    "axios": "^0.27.2",
+    "axios": "^0.32.0",
     "dayjs": "^1.11.0",
     "electron-log": "^4.4.6",
     "electron-updater": "^4.6.5",
